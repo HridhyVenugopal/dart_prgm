@@ -21,7 +21,7 @@ void main(){
   print("Student 1 age = ${st1.age = 22}");
   print("Student 1 email = ${st1.email = 'hridhy2001@gmail.com'}");
   print("Student 1 qualification = ${st1.qualification = 'BTech'}");
-  print("Student 1 course = ${Students.course}");
+  print("Student 1 course = ${Students.course}");//static variable calls class not object
 
   print("---------------------------------------------");
 
